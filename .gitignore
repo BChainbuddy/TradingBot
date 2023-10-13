@@ -1,0 +1,5 @@
+# IGNORE THESE FILE
+config.py
+node_modules
+__pycache__/
+yarn.lock
